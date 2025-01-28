@@ -10,15 +10,19 @@ https://github.com/EE35476y/apppro_test.git
 かっこよくいうとブランチを切るといいます。
 
 - 今のブランチを見る
+
 ```
 git branch
-
-- ブランチを作成する
 ```
 
+- ブランチを作成する
+
+```
 git branch branch_test
 
 ```
 -　ブランチを移動
-````
+
+```
 git checkout branch_test
+```
