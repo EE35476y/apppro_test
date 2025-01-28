@@ -21,7 +21,7 @@ git branch
 git branch branch_test
 
 ```
--　ブランチを移動
+- ブランチを移動
 
 ```
 git checkout branch_test
